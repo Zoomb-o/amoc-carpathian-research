@@ -32,3 +32,9 @@ Questions:
 
 15. Has summer precipitation changed differently from annual precipitation?
 
+18. Does AMOC variability correlate with Carpathian Basin temperature?
+
+19. Does AMOC variability correlate with Western European temperature?
+
+20. Does the Carpathian Basin respond differently to AMOC variability than Western Europe?
+

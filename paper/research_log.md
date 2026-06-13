@@ -155,3 +155,44 @@ The Carpathian Basin warmed substantially faster than Western Europe in both sea
 
 These findings indicate that inland Central Europe has experienced a markedly different climate trajectory from Atlantic-influenced Western Europe during 1980–2025.
 
+## Climate Regime Shift Analysis
+
+Mean annual temperatures were compared between two periods:
+
+1980–2000:
+- 9.37 °C
+
+2001–2025:
+- 10.57 °C
+
+Difference:
+- +1.21 °C
+
+The results indicate a substantial warming of the regional climate between the late 20th and early 21st centuries. The magnitude of the shift exceeds one degree Celsius and supports the trend-based analyses showing rapid warming across the Carpathian Basin.
+
+## Warm-Year Frequency Analysis
+
+The 1980–2000 mean temperature (9.37 °C) was used as a baseline climate reference.
+
+Results:
+
+- Warmer years than baseline: 34
+- Cooler years than baseline: 12
+
+Approximately 74% of years in the 1980–2025 record were warmer than the late twentieth-century baseline.
+
+This suggests a substantial shift in the temperature distribution toward warmer conditions and supports the interpretation of an ongoing climate regime change in the Carpathian Basin.
+
+## Temperature Anomaly Analysis
+
+Annual temperature anomalies were calculated relative to the 1980–2000 baseline climate.
+
+Results:
+
+- Negative anomalies dominated during the early part of the record.
+- Positive anomalies became increasingly common after the late 1990s.
+- Following approximately 2007, nearly all years exhibited positive temperature anomalies.
+- Several recent years exceeded +2 °C relative to the baseline.
+
+The anomaly record indicates a clear shift toward persistently warmer climatic conditions in the Carpathian Basin.
+
