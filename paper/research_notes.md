@@ -38,3 +38,18 @@ Questions:
 
 20. Does the Carpathian Basin respond differently to AMOC variability than Western Europe?
 
+## Milestone
+
+The project now includes:
+
+- ERA5 temperature analysis (1980–2025)
+- ERA5 precipitation analysis (1980–2025)
+- Carpathian Basin vs Western Europe comparison
+- RAPID AMOC observations (2004–2024)
+- AMOC trend analysis
+- Annual and seasonal AMOC-temperature correlations
+- Detrended summer AMOC analysis
+
+Key finding:
+
+A moderate negative association exists between AMOC strength and Carpathian Basin summer temperatures (r = -0.583; detrended r = -0.347), while Western Europe shows almost no temperature relationship with AMOC variability (r = +0.047).

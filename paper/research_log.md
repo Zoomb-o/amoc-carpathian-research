@@ -350,3 +350,23 @@ The correlation weakened after detrending but remained negative.
 This indicates that part of the relationship is associated with long-term AMOC decline and regional warming trends, but some year-to-year co-variability remains.
 
 The result suggests that the observed relationship is not entirely explained by shared trends.
+
+## Regional Divergence Analysis
+
+Annual mean temperatures were compared directly between the Carpathian Basin and Western Europe.
+
+Difference defined as:
+
+Carpathian Basin temperature
+− Western Europe temperature
+
+Result:
+
+Trend:
++0.252 °C per decade
+
+Interpretation:
+
+The Carpathian Basin has warmed progressively faster than Western Europe over the period 1980–2025.
+
+The growing temperature difference suggests increasing climatic divergence between Eastern continental Europe and Western maritime Europe.
