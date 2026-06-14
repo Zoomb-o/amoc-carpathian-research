@@ -196,3 +196,157 @@ Results:
 
 The anomaly record indicates a clear shift toward persistently warmer climatic conditions in the Carpathian Basin.
 
+## RAPID AMOC Dataset Verification
+
+The RAPID-MOCHA dataset was downloaded and inspected.
+
+Summary statistics for the identified AMOC transport variable:
+
+- Mean AMOC strength: 16.98 Sv
+- Minimum: -4.35 Sv
+- Maximum: 32.34 Sv
+
+The mean value is consistent with published estimates of AMOC strength at 26.5°N (~17 Sv), supporting the identification of the correct AMOC transport variable within the dataset.
+
+## Observed AMOC Trend (RAPID Array)
+
+The RAPID-MOCHA observational record (2004–2024) was analyzed to estimate long-term changes in AMOC strength.
+
+Results:
+
+- Mean AMOC strength: 16.98 Sv
+- Trend: -0.951 Sv per decade
+
+The observed trend indicates a weakening of the Atlantic Meridional Overturning Circulation during the observational period. Relative to the mean circulation strength, the decrease corresponds to approximately 11% over two decades.
+
+## AMOC Observation Period Analysis (2004–2024)
+
+To compare regional climate evolution with direct AMOC observations, temperature trends were calculated for the RAPID observation period.
+
+Results:
+
+AMOC:
+- Trend: -0.951 Sv per decade
+
+Carpathian Basin:
+- Trend: +0.895 °C per decade
+- Change 2004–2024: +2.64 °C
+
+Western Europe:
+- Trend: +0.338 °C per decade
+- Change 2004–2024: +0.49 °C
+
+The Carpathian Basin warmed approximately 2.65 times faster than Western Europe during the period covered by direct AMOC observations.
+
+While causation cannot be inferred from these results alone, the findings indicate markedly different regional climate responses during a period of observed AMOC weakening.
+
+## AMOC–Temperature Comparison Figure
+
+Created a standardized anomaly comparison between:
+
+- RAPID AMOC observations
+- Carpathian Basin temperature
+- Western Europe temperature
+
+Period:
+2004–2024
+
+Main observations:
+
+1. AMOC anomalies generally decline over the observation period.
+
+2. Carpathian Basin temperature anomalies show a strong positive trend.
+
+3. Western Europe also warms, but substantially less than the Carpathian Basin.
+
+4. The Carpathian Basin warming trend (+0.895 °C/decade) is approximately 2.65 times larger than the Western Europe trend (+0.338 °C/decade).
+
+The figure supports the hypothesis that Eastern European continental climates may respond differently from Western European maritime climates during a period of observed AMOC weakening.
+
+## AMOC–Carpathian Basin Correlation
+
+Period:
+2004–2024
+
+Method:
+Annual RAPID AMOC strength compared with annual mean Carpathian Basin temperature.
+
+Result:
+
+Correlation coefficient:
+r = -0.472
+
+Interpretation:
+
+A moderate negative relationship exists between AMOC strength and Carpathian Basin temperature during the RAPID observation period.
+
+Years with weaker AMOC conditions tend to be associated with warmer temperatures in the Carpathian Basin.
+
+The result does not demonstrate causation but suggests that the Carpathian Basin climate response differs from the commonly discussed Western European cooling narrative associated with AMOC weakening.
+
+## AMOC–Western Europe Correlation
+
+Period:
+2004–2024
+
+Method:
+Annual RAPID AMOC strength compared with annual mean Western Europe temperature.
+
+Result:
+
+Correlation coefficient:
+r = +0.047
+
+Interpretation:
+
+No meaningful linear relationship was identified between annual AMOC strength and Western Europe temperature during the RAPID observation period.
+
+Comparison with Carpathian Basin:
+
+Carpathian Basin:
+r = -0.472
+
+Western Europe:
+r = +0.047
+
+The Carpathian Basin exhibits a substantially stronger statistical relationship with AMOC variability than Western Europe over the same period.
+
+These findings suggest that regional climate responses may differ significantly within Europe and that the Carpathian Basin should not automatically be assumed to behave similarly to Western European maritime regions.
+
+## Seasonal AMOC Relationships
+
+Correlation between annual AMOC strength and seasonal Carpathian Basin temperatures (2004–2024):
+
+Winter:
+r = -0.231
+
+Summer:
+r = -0.583
+
+The AMOC relationship is substantially stronger during summer than winter.
+
+This result contrasts with the common expectation that AMOC impacts are strongest during winter in Europe.
+
+One possible explanation is that the continental climate of the Carpathian Basin amplifies circulation-related summer heat and drought processes.
+
+Further investigation is required to determine the physical mechanisms involved.
+
+## Detrended Summer AMOC Analysis
+
+To test whether the observed AMOC-temperature relationship was driven solely by long-term trends, both AMOC and summer temperature series were linearly detrended for the period 2004–2024.
+
+Results:
+
+Raw summer correlation:
+r = -0.583
+
+Detrended summer correlation:
+r = -0.347
+
+Interpretation:
+
+The correlation weakened after detrending but remained negative.
+
+This indicates that part of the relationship is associated with long-term AMOC decline and regional warming trends, but some year-to-year co-variability remains.
+
+The result suggests that the observed relationship is not entirely explained by shared trends.
