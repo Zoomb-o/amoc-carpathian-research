@@ -29,6 +29,12 @@ Observed Warming of the Carpathian Basin During a Period of AMOC Weakening (2004
 
 ## 3.5 AMOC-temperature relationships
 
+## 3.6 Atmospheric Circulation
+
+- Mean sea level pressure trends
+- Summer pressure anomalies
+- Relationship with AMOC variability
+
 # 4 Discussion
 
 - Continentality

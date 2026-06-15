@@ -370,3 +370,67 @@ Interpretation:
 The Carpathian Basin has warmed progressively faster than Western Europe over the period 1980–2025.
 
 The growing temperature difference suggests increasing climatic divergence between Eastern continental Europe and Western maritime Europe.
+
+## Mean Sea Level Pressure Trend
+
+ERA5 mean sea level pressure (MSLP) was analyzed for the Carpathian Basin over 1980–2025.
+
+Result:
+
+Pressure trend:
+-0.013 hPa per decade
+
+Interpretation:
+
+Long-term mean sea level pressure has remained effectively stable over the study period.
+
+The accelerated warming of the Carpathian Basin cannot be explained by a simple increase in annual mean sea level pressure.
+
+## Statistical Significance Test
+
+The relationship between annual mean AMOC strength and Carpathian Basin summer temperatures was evaluated using Pearson correlation.
+
+Results:
+
+r = -0.583
+p = 0.0055
+n = 21 years
+
+Interpretation:
+
+The negative AMOC-temperature relationship is statistically significant at the 1% level.
+
+Lower AMOC values are associated with warmer Carpathian Basin summers during the RAPID observation period (2004–2024).
+
+A detrended analysis reduced the correlation to r = -0.347, indicating that part of the relationship is associated with long-term trends, but not all of it.
+
+## AMOC Lag Correlation Analysis
+
+Lagged correlations were calculated between annual AMOC strength and Carpathian Basin summer temperatures.
+
+Results:
+
+Lag 0:
+r = -0.583
+p = 0.0055
+
+Lag 1:
+r = -0.292
+p = 0.1989
+
+Lag 2:
+r = -0.355
+p = 0.1250
+
+Lag 3:
+r = -0.494
+p = 0.0317
+
+Interpretation:
+
+The strongest and most statistically significant relationship occurs in the same year (lag 0).
+
+This suggests that the observed AMOC-temperature association is primarily contemporaneous rather than delayed.
+
+A secondary negative relationship appears at a 3-year lag, but it is weaker and based on a smaller sample size.
+
