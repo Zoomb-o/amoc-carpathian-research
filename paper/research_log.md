@@ -489,3 +489,13 @@ Interpretation:
 
 Weaker AMOC conditions are associated with enhanced warming of the Carpathian Basin relative to Western Europe.
 
+### Results Section Draft Created
+
+Created:
+
+paper/results.md
+
+Compiled all major quantitative findings into a single manuscript-ready results section.
+
+This marks the transition from the primary analysis phase to manuscript preparation and interpretation.
+
