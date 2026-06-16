@@ -499,3 +499,66 @@ Compiled all major quantitative findings into a single manuscript-ready results 
 
 This marks the transition from the primary analysis phase to manuscript preparation and interpretation.
 
+### Permutation Test
+
+Performed a Monte Carlo permutation test (10,000 iterations) for the AMOC–summer temperature relationship.
+
+Observed correlation:
+r = -0.583
+
+Permutation p-value:
+0.0069
+
+The permutation test independently confirmed the statistical significance of the relationship.
+
+### AMOC-Era Trend Comparison
+
+Compared temperature trends during the RAPID observation period (2004–2024).
+
+Results:
+
+Carpathian Basin:
++0.895 °C/decade
+
+Western Europe:
++0.338 °C/decade
+
+Difference:
++0.557 °C/decade
+
+The regional warming contrast during the AMOC observation period is substantially larger than the contrast calculated for the full 1980–2025 record.
+
+### Manuscript Structure Completed
+
+Created:
+
+- abstract.md
+- manuscript.md
+
+The project now contains the core components of a complete scientific manuscript:
+
+- Abstract
+- Results
+- Discussion
+- Conclusion
+- Manuscript outline
+
+Future work will focus on methods documentation, figure preparation, and manuscript refinement.
+
+### Introduction Draft Completed
+
+Created:
+
+paper/introduction.md
+
+Completed the first full manuscript structure, including:
+
+- Abstract
+- Introduction
+- Methods
+- Results
+- Discussion
+- Conclusion
+
+Future work will focus on figure preparation, references, manuscript integration, and final review.
+

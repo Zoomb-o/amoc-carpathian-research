@@ -8,6 +8,19 @@ Western Europe warmed at 0.304 °C per decade during the same period.
 
 The difference trend was 0.252 °C per decade, indicating faster warming in the Carpathian Basin.
 
+During the RAPID AMOC observation period (2004–2024), warming accelerated substantially in the Carpathian Basin.
+
+Carpathian Basin:
++0.895 °C per decade
+
+Western Europe:
++0.338 °C per decade
+
+Difference:
++0.557 °C per decade
+
+The regional warming contrast during 2004–2024 was more than twice as large as the contrast observed over the full 1980–2025 period.
+
 ## 2. Precipitation Trends
 
 Carpathian Basin annual precipitation trend:
@@ -47,6 +60,16 @@ p = 0.0052
 Detrended correlation:
 
 r = -0.347
+
+A permutation test with 10,000 random shuffles was performed to assess robustness.
+
+Observed correlation:
+r = -0.583
+
+Permutation p-value:
+0.0069
+
+The permutation test confirmed that the observed relationship is unlikely to occur by chance.
 
 ## 6. Pressure Analysis
 
