@@ -434,3 +434,58 @@ This suggests that the observed AMOC-temperature association is primarily contem
 
 A secondary negative relationship appears at a 3-year lag, but it is weaker and based on a smaller sample size.
 
+### GitHub Backup
+
+Committed and pushed all current analyses to GitHub.
+
+Commit:
+aa55234
+
+Included:
+- Pressure analyses
+- AMOC significance testing
+- Lag correlation analysis
+- Updated figures and scripts
+
+Repository synchronized successfully.
+
+## AMOC and Regional Temperature Difference
+
+The annual temperature difference between the Carpathian Basin and Western Europe was compared with RAPID AMOC strength during 2004–2024.
+
+Results:
+
+Correlation:
+r = -0.587
+
+P-value:
+p = 0.0052
+
+Years:
+n = 21
+
+Interpretation:
+
+Lower AMOC strength is associated with a larger temperature difference between the Carpathian Basin and Western Europe.
+
+The relationship is statistically significant at the 1% level and is slightly stronger than the direct AMOC–summer temperature correlation.
+
+This suggests that AMOC variability may be linked not only to regional warming, but specifically to the enhanced warming of the Carpathian Basin relative to Western Europe.
+
+### Temperature Difference Correlation Figure
+
+Created scatter plot showing the relationship between RAPID AMOC strength and the annual temperature difference between the Carpathian Basin and Western Europe.
+
+File:
+
+figures/amoc_temperature_difference_scatter.png
+
+Statistics:
+
+r = -0.587
+p = 0.0052
+
+Interpretation:
+
+Weaker AMOC conditions are associated with enhanced warming of the Carpathian Basin relative to Western Europe.
+
