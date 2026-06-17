@@ -61,3 +61,11 @@
 | Annual trend | -0.013 hPa/decade |
 | Summer trend | -0.005 hPa/decade |
 | Summer pressure-temperature correlation | 0.004 |
+
+## Warming Amplification
+
+Carpathian trend (2004–2024): +0.895 °C/decade
+
+Western Europe trend (2004–2024): +0.338 °C/decade
+
+Warming ratio: 2.65

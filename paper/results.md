@@ -71,6 +71,12 @@ Permutation p-value:
 
 The permutation test confirmed that the observed relationship is unlikely to occur by chance.
 
+### Warming Amplification
+
+During the RAPID observation period (2004–2024), the Carpathian Basin warmed at 0.895 °C per decade, compared with 0.338 °C per decade in Western Europe.
+
+The warming rate in the Carpathian Basin was therefore approximately 2.65 times greater than that observed in Western Europe.
+
 ## 6. Pressure Analysis
 
 Annual pressure trend:
