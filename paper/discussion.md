@@ -39,6 +39,8 @@ Several limitations should be considered when interpreting these results.
 
 First, the RAPID observational record covers only 21 years, which limits the ability to assess long-term relationships and increases sensitivity to interannual variability.
 
+The relatively short duration of the RAPID observational record limits the ability to distinguish multi-decadal variability from long-term climate trends. Consequently, the results should be interpreted as evidence of statistically significant associations rather than definitive proof of a causal mechanism.
+
 Second, the analysis is observational and therefore cannot establish causality. Although statistically significant relationships were identified, additional modelling studies would be required to determine the physical mechanisms responsible for the observed associations.
 
 Third, only a limited set of climate variables was examined. Other factors, including atmospheric circulation indices, soil moisture feedbacks, and large-scale teleconnection patterns, may also contribute to regional temperature variability.
