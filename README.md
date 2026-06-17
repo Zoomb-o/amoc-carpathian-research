@@ -1,16 +1,24 @@
-# AMOC-Carpathian Research
+# AMOC–Carpathian Research
 
-Research project investigating the potential impacts of Atlantic Meridional Overturning Circulation (AMOC) weakening on Hungary and the Carpathian Basin.
+Investigation of long-term warming in the Carpathian Basin and its relationship with Atlantic Meridional Overturning Circulation (AMOC) variability.
 
-## Research Question
+## Main Result
 
-How would a substantial AMOC slowdown alter temperature, precipitation, drought risk, and climate variability in Hungary and the Carpathian Basin?
+The Carpathian Basin warmed approximately 2.65 times faster than Western Europe during 2004–2024.
 
-## Status
+A significant negative relationship was identified between AMOC strength and Carpathian Basin summer temperature:
 
-* [x] Project structure created
-* [x] Initial proposal written
-* [x] Research notes created
-* [ ] Climate datasets collected
-* [ ] Analysis completed
-* [ ] Manuscript drafted
+r = -0.583
+p = 0.0055
+
+## Data Sources
+
+- ERA5 Reanalysis
+- RAPID AMOC Monitoring Array
+
+## Repository Structure
+
+data/
+figures/
+paper/
+src/
